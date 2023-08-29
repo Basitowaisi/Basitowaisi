@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Basit Bashir  from Srinagar, Jammu and Kashmir<br><br>- 🔭 I work as an SDE-I at Softobiz Technologies Private Limited.<br>- 📚 I am currently learning Angular.<br>- ⚡ In my free time, I stay updated with the latest trends in the field of development."</p>
+<p align="left">I'm Basit Bashir  from Srinagar, Jammu and Kashmir<br><br>- 🔭 I work as an SDE-I at Softobiz Technologies Private Limited.<br>- 📚 I am currently learning Angular.<br>- ⚡ In my free time, I stay updated with the latest trends in the field of development.</p>
 
 ###
 
