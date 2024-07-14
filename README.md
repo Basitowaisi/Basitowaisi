@@ -24,15 +24,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👩‍💻 About Me
+Hi! I'm **Basit Bashir** from **Srinagar, Jammu and Kashmir, India**.
 
-###
+- 🔭 **Current Role:** SDE-I at Softobiz Technologies Private Limited.
+- 📚 **Learning:** Currently mastering Angular.
+- ⚡ **Hobbies:** Staying updated with the latest trends in software development during my free time.
 
-<p align="left">I'm Basit Bashir  from Srinagar, Jammu and Kashmir, India<br><br>- 🔭 I work as an SDE-I at Softobiz Technologies Private Limited.<br>- 📚 I am currently learning Angular.<br>- ⚡ In my free time, I stay updated with the latest trends in the field of development.</p>
+## 🛠 Languages, Tools, and Frameworks
 
-###
-
-<h3 align="left">🛠 Languages, Tools and Frameworks</h3>
 
 ###
 
