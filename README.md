@@ -28,7 +28,7 @@
 Hi! I'm **Basit Bashir** from **Srinagar, Jammu and Kashmir, India**.
 
 - 🔭 **Current Role:** SDE-I at Softobiz Technologies Private Limited.
-- 📚 **Learning:** Currently mastering Angular.
+- 📚 **Learning:** Currently mastering NestJS and Angular.
 - ⚡ **Hobbies:** Staying updated with the latest trends in software development during my free time.
 
 ## 🛠 Languages, Tools, and Frameworks
