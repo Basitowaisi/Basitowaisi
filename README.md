@@ -54,6 +54,7 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 <div align="center">
 
 ### Languages
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,11 +62,13 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -73,6 +76,7 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Database & Tools
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -84,12 +88,16 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=basitowaisi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basitowaisi&theme=tokyonight&hide_border=true)
+  
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Basitowaisi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basitowaisi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basitowaisi&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basitowaisi&layout=compact&theme=tokyonight&hide_border=true)
+  
 </div>
 
 ---
@@ -97,7 +105,9 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 ## 📊 Visitors
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Basitowaisi&icon=0&color=6" alt="Visitor Count" />
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Basitowaisi&color=6366f1&style=for-the-badge)
+  
 </div>
 
 ---
