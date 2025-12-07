@@ -95,8 +95,8 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-iggs4o3dn-eboybasitgmailcoms-projects.vercel.app/api?username=Basitowaisi&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Languages](https://github-readme-stats-iggs4o3dn-eboybasitgmailcoms-projects.vercel.app/api/top-langs/?username=Basitowaisi&layout=compact&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats-iggs4o3dn-eboybasitgmailcoms-projects.vercel.app/api?username=basitowaisi&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats-iggs4o3dn-eboybasitgmailcoms-projects.vercel.app/api/top-langs/?username=basitowaisi&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
