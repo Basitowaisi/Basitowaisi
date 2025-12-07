@@ -84,12 +84,12 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=basitowaisi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=basitowaisi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basitowaisi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitowaisi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Basitowaisi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basitowaisi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 ## 📊 Visitors
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/basitowaisi/count.svg?" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=Basitowaisi&icon=0&color=6" alt="Visitor Count" />
 </div>
 
 ---
