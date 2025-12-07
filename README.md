@@ -89,7 +89,7 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basitowaisi&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-stats-iggs4o3dn-eboybasitgmailcoms-projects.vercel.app/?user=Basitowaisi&theme=tokyonight&hide_border=true)
   
 </div>
 
