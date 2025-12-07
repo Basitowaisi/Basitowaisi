@@ -21,7 +21,7 @@ I'm a passionate full-stack developer from **Srinagar, Jammu & Kashmir, India**,
 
 - 🔭 **Current Role:** SDE-I | Backend & Frontend Engineering
 - 💡 **Skills:** Designing scalable, maintainable web applications with Node.js, React, NestJS, MongoDB, and more
-- 🌱 **Currently Learning:** NestJS deeply & mastering Angular
+- 🌱 **Currently Learning:** Go
 - 🛠️ **Working on:** A custom Inventory & Billing Dashboard with analytics and profit tracking
 - 🧠 **Interests:** Problem-solving, architecture, open-source contributions, and dev tooling
 
@@ -30,6 +30,7 @@ I'm a passionate full-stack developer from **Srinagar, Jammu & Kashmir, India**,
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -47,7 +48,6 @@ I'm a passionate full-stack developer from **Srinagar, Jammu & Kashmir, India**,
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
 
 ---
 
