@@ -13,6 +13,9 @@
     <a href="https://www.linkedin.com/in/basitbashir/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://github.com/basitbashirsoftobiz" target="_blank">
+      <img src="https://img.shields.io/badge/Work%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" />
+    </a>
     <a href="https://twitter.com/owaisibasit" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
     </a>
@@ -33,6 +36,10 @@
 name: Basit Bashir
 location: Srinagar, Jammu & Kashmir, India 🏔️
 current_role: SDE-I @ Softobiz Technologies Pvt. Ltd.
+
+github:
+  personal: Basitowaisi
+  work: basitbashirsoftobiz
 
 expertise:
   - Backend Engineering (Node.js, NestJS)
