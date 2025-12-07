@@ -89,14 +89,14 @@ fun_fact: "I love debugging almost as much as I love chai ☕"
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-stats-iggs4o3dn-eboybasitgmailcoms-projects.vercel.app/api?user=Basitowaisi&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-stats-theta-coral-94.vercel.app/api?username=Basitowaisi&theme=tokyonight&hide_border=true)
   
 </div>
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-iggs4o3dn-eboybasitgmailcoms-projects.vercel.app/api?username=basitowaisi&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Languages](https://github-readme-stats-iggs4o3dn-eboybasitgmailcoms-projects.vercel.app/api/top-langs/?username=basitowaisi&layout=compact&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats-theta-coral-94.vercel.app/api?username=basitowaisi&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats-theta-coral-94.vercel.app/api/top-langs/?username=basitowaisi&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
