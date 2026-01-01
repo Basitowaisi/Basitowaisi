@@ -39,7 +39,7 @@ current_role: SDE-I @ Softobiz Technologies Pvt. Ltd.
 
 github:
   personal: Basitowaisi
-  work: basitbashirsoftobiz
+  professional: basitbashirsoftobiz
 
 expertise:
   - Backend Engineering (Node.js, NestJS)
